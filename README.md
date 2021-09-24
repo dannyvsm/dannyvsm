@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/dannyvscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dannyvscode" height="30" width="40" /></a>
+<a href="https://codepen.io/dannyvscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dannyvscode" height="30" width="40" /></a>
 <a href="https://twitter.com/dannyvscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dannyvscode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dannysmithdevelopment/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dannysmithdevelopment/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dannysmithdevelopment/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dannysmithdevelopment/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
