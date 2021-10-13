@@ -3,7 +3,7 @@
 
 - ⚡ Pronouns: **They/Them**
 
-- 🔭 I’m currently working on: [Portfolio Revamp](https://github.com/users/dannyvsm/projects/1) && [Filmate](https://github.com/dannyvsm/filmate/)
+- 🔭 I’m currently working on: Creating my Portfolio && [Filmate](https://github.com/dannyvsm/filmate/)
 
 - 🌱 I’m currently learning: **React, SASS, and Italian**
 
