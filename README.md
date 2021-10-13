@@ -3,13 +3,13 @@
 
 - ⚡ Pronouns: **They/Them**
 
-- 🔭 I’m currently working on: [Portfolio Revamp](https://github.com/users/dannyvsm/projects/1) && [React Tetris](https://github.com/dannyvsm/react-tetris/)
+- 🔭 I’m currently working on: [Portfolio Revamp](https://github.com/users/dannyvsm/projects/1) && [Filmate](https://github.com/dannyvsm/filmate/)
 
-- 🌱 I’m currently learning: **MaterialUI, Figma and revisiting React**
+- 🌱 I’m currently learning: **React, SASS, and Italian**
 
 - 👯 I’m looking to collaborate on: **Open source projects**
 
-- 💬 Ask me about: **Anything! I'm always open for a chat!**
+- 💬 Talk to me about: **Front-end, Cats, Film - anything! I'm always open for a chat!**
 
 - 📫 How to reach me: **dannysmithdev@outlook.com**
 
